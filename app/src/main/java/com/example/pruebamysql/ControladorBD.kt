@@ -29,7 +29,4 @@ class ControladorBD {
         return lista
     }
 
-
-
-
 }
